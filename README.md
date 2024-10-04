@@ -4,12 +4,6 @@
 
 将全部文件复制到服务器，入口文件是index.html
 
-
-## 在线预览
-
-https://geeeeeeeek.github.io/web_tool/
-
-
 ## 二次开发
 
 1. 如需修改网址，可修改index.html
@@ -19,8 +13,4 @@ https://geeeeeeeek.github.io/web_tool/
 
 ## 参考资料
 
-- https://web-tool-omega.vercel.app/
-
-- https://web-a55.pages.dev/
-
-- https://hrzhanghuan.com
+https://come-305.pages.dev/
